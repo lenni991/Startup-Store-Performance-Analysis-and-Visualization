@@ -1,4 +1,4 @@
-# Startup Store Performance Analysis
+# Startup Store Performance Analysis and Visualization
 
 ## Overview
 Analysis of store performance data across multiple regions, focusing on marketing spend efficiency and revenue generation. Created an interactive Power BI dashboard to visualize key performance metrics.
